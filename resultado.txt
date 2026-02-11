@@ -1,0 +1,4 @@
+Alumnos aprobados: 
+Ana
+María
+Juan
